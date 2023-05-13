@@ -10,7 +10,7 @@ This allows anyone to add/remove old and new resources or even upload their own 
 
 ## How to run?
 
-1. Install (npm)[npmjs.com]
+1. Install [npm](npmjs.com)
 2. Clone the repo with `git clone https://github.com/Cryptizism/sqa-resources`
 3. Run `npm i`
 4. Run `npm run dev`
