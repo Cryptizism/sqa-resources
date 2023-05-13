@@ -6,7 +6,7 @@ This is a repository to provide resources to students sitting SQA exams: Nationa
 
 ## Why open source?
 
-This allows anyone to add/remove old and new resources or even upload their own resources they have created. This also allows peer reviewing of resources to insure that incorrect information is ironed out.
+This allows anyone to add/remove old and new resources or even upload their own resources they have created. This also allows peer reviewing of resources to ensure that incorrect information is ironed out.
 
 ## How to run?
 
